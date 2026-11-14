@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**MSushmitha02/MSushmitha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Susmitha, a CS graduate based in India.
 
-Here are some ideas to get you started:
+I enjoy exploring new technologies, building projects and figuring out how things work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is where I'll be sharing my projects, experiments and things I learn along the way.
+
+### Tools & Tech
+
+- Python, Java, SQL
+- Scikit-learn, TensorFlow, Keras
+- MySQL, Snowflake
+- Git, GitHub, Tableau
+
+### A little about me
+
+- Coffee and doodles occasionally
+- Into anime - Vinland Saga is a favourite
+- Learning Morse code cuz I think it's cool
+- I like building things that are simple, useful and easy to understand
