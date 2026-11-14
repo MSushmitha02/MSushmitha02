@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Susmitha, a CS graduate based in India.
+I'm Sushmitha, a CS graduate based in India.
 
 I enjoy exploring new technologies, building projects and figuring out how things work.
 
