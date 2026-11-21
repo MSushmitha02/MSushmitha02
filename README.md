@@ -1,21 +1,24 @@
-# Hey there 👋
+## Hi, I'm Sushmitha 👋
 
-I'm Sushmitha, a CS graduate based in India.
+CS graduate who likes figuring out how things work, then building something with it. Most of my work sits between machine learning and data.
 
-I enjoy exploring new technologies, building projects and figuring out how things work.
+### Featured projects
 
-This is where I'll be sharing my projects, experiments and things I learn along the way.
+- **[Ayurvedic Medicine Recommendation System](https://github.com/MSushmitha02/Aayurvedic-Medicine-Recommendation-System)**: ML web app that recommends medicines from symptoms (Random Forest, Naive Bayes, SVM, Flask API)
+- **[Human Privacy Protection](https://github.com/MSushmitha02/YOUR-REPO-NAME)**: detects people in images with YOLOv8, then blurs and encrypts them (ChaCha20)
+- **[Customer Retention & Revenue Risk Analysis](https://github.com/MSushmitha02/customer-retention-revenue-risk-analysis)**: RFM segmentation of customers into Loyal / At-Risk / Dormant on the Online Retail II dataset
 
-### Tools & Tech
+### Currently building
 
-- Python, Java, SQL
-- Scikit-learn, TensorFlow, Keras
-- MySQL, Snowflake
-- Git, GitHub, Tableau
+- **[AI Mechanic for Data Pipelines](https://github.com/MSushmitha02/AI-mechanic-for-Data-Pipeline)**: an assistant that reads pipeline logs and suggests the root cause and fix
 
-### A little about me
+### Tools & tech
 
-- Coffee and doodles occasionally
-- Into anime - Vinland Saga is a favourite
-- Learning Morse code cuz I think it's cool
-- I like building things that are simple, useful and easy to understand
+**Languages:** Python, Java, SQL
+**ML:** Scikit-learn, TensorFlow, Keras
+**Data:** MySQL, Snowflake, Tableau
+**Workflow:** Git, GitHub
+
+### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/sushmitha-mangali-4420aa321/)
